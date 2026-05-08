@@ -166,14 +166,26 @@ h4 { font-size: 0.95rem; font-weight: 700; text-transform: uppercase; letter-spa
   font-family: var(--font-display);
   font-size: 1.15rem;
 }
-.logo-text { color: var(--ink-900); font-weight: 500; }
-.logo-text strong { font-weight: 800; color: var(--ink-900); }
-.logo-mark {
+.logo-pill {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: var(--teal-600);
+  background: linear-gradient(135deg, var(--teal-700) 0%, var(--teal-900) 100%);
+  padding: 9px 16px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(15, 110, 106, 0.22);
 }
+.logo-img {
+  height: 32px;
+  width: auto;
+  display: block;
+}
+.footer-logo .logo-img,
+.logo-img-light {
+  height: 36px;
+  filter: brightness(1.05);
+}
+.footer-logo { padding: 0; background: transparent; box-shadow: none; }
 
 .nav {
   display: flex;
