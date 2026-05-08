@@ -640,6 +640,18 @@ h4 { font-size: 0.95rem; font-weight: 700; text-transform: uppercase; letter-spa
   color: var(--white);
   transform: translateY(-2px);
 }
+.town-link {
+  background: var(--white);
+  border-color: var(--teal-600);
+  color: var(--teal-700);
+  font-weight: 600;
+  cursor: pointer;
+}
+.town-link:hover {
+  background: var(--teal-700);
+  color: var(--white);
+  border-color: var(--teal-700);
+}
 
 /* Map */
 .map-wrap {
@@ -992,6 +1004,31 @@ a.contact-method:hover {
 .footer-col h4 { color: var(--white); margin-bottom: 16px; }
 .footer-col ul li { margin-bottom: 10px; font-size: 0.92rem; }
 .footer-col a:hover { color: var(--teal-500); }
+
+.review-cta {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  margin-top: 16px;
+  padding: 10px 16px;
+  background: var(--teal-700);
+  color: var(--white) !important;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+.review-cta:hover {
+  background: var(--teal-500) !important;
+  color: var(--ink-900) !important;
+  transform: translateY(-1px);
+}
+.review-stars {
+  color: #fbbf24;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+}
 
 .footer-bottom {
   border-top: 1px solid rgba(255, 255, 255, 0.08);
