@@ -651,7 +651,15 @@ h4 { font-size: 0.95rem; font-weight: 700; text-transform: uppercase; letter-spa
   border: 1.5px solid var(--ink-100);
   background: var(--teal-50);
 }
-.map-wrap iframe { filter: saturate(0.9); }
+.map-attribution {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--ink-500);
+  padding: 8px 12px;
+  background: var(--white);
+  margin: 0;
+}
+.map-attribution a { color: var(--teal-700); font-weight: 600; }
 
 /* FAQ */
 .faq {
