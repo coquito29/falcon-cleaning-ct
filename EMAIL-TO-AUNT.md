@@ -71,7 +71,7 @@ This is THE single biggest factor for showing up at the top of Google when someo
 
 You need to claim it yourself — Google requires the business owner. Takes about 10 minutes plus 5–7 days for postcard verification.
 
-**Want to do it together on a video call this week?** I have a step-by-step guide ready.
+I'll send you a step-by-step guide via text so you can do it on your own time. If you get stuck on any step, text me and I'll help.
 
 ### 2. **Facebook + Instagram ads** — ready to launch
 Facebook ads can target your EXACT towns (Norwich, Mystic, Niantic, etc.) at the zip-code level. Way better than TikTok which can only target the whole state.
@@ -111,13 +111,11 @@ This unlocks Facebook + Instagram ads. You stay the owner of the page; I just he
 
 I'll get a notification → accept → done.
 
-### 🥈 Priority 2 — Schedule a 30-min video call to claim Google Business Profile
+### 🥈 Priority 2 — Claim your Google Business Profile (10 min, on your own time)
 
-This needs you to be present (Google requires the business owner). Pick a time this week or next:
-- Suggested: [PROPOSED TIME 1] / [PROPOSED TIME 2]
-- I'll walk you through every click, takes about 10–15 minutes
-- After we finish, Google mails you a postcard with a verification code (5–7 days)
-- You enter the code → you're on Google Maps + search results
+This needs to be done by you (Google requires the business owner). I'll send you the step-by-step guide by text — takes about 10 minutes. If you get stuck on any step, text me and I'll help in real-time.
+
+After you submit, Google mails you a postcard with a verification code (5–7 days). You enter the code → you're on Google Maps + search results.
 
 ### 🥉 Priority 3 — Send me content (5 minutes total)
 
@@ -160,7 +158,7 @@ If you want me to point it at the new site:
 
 | When | What happens |
 |---|---|
-| **This week** | You add me as FB Admin + send photos/reviews + schedule GBP call |
+| **This week** | You add me as FB Admin + send photos/reviews + claim Google Business Profile |
 | **Week 1–2** | Facebook ads launch, GBP claimed, postcard arrives |
 | **Week 2–4** | First leads come in from FB ads, GBP listing goes live on Maps |
 | **Month 2–3** | TikTok videos building reach, Google rankings climbing |
@@ -171,7 +169,7 @@ If you want me to point it at the new site:
 ## ✅ TL;DR — three things to do this week
 
 1. **Add me as Admin** on your Falcon Cleaning Facebook page (30 sec)
-2. **Pick a time** for our 30-min Google Business Profile video call
+2. **Claim your Google Business Profile** using the guide I send you (10 min)
 3. **Text me** photos of your work and screenshots of your 4 FB reviews
 
 That's it. From there, the website starts working harder for you, ads go live, and customers start finding you.
@@ -229,11 +227,9 @@ Esto desbloquea anuncios en Facebook + Instagram. Tú sigues siendo dueña — y
 4. Elige: **Admin**
 5. Guardar
 
-### 🥈 #2 — Videollamada de 30 min para reclamar Google Business Profile
+### 🥈 #2 — Reclama tu Google Business Profile (10 min, cuando tú puedas)
 
-Esto es LO MÁS IMPORTANTE para salir en la cima de Google. Necesitas estar tú (Google requiere al dueño).
-
-**¿Cuándo te queda bien esta semana o la próxima?**
+Esto es LO MÁS IMPORTANTE para salir en la cima de Google. Esto lo haces tú (Google requiere a la dueña). Te mando la guía paso a paso por mensaje — toma como 10 minutos. Si te atoras, mándame texto y te ayudo en vivo.
 
 ### 🥉 #3 — Mándame fotos y reseñas (5 minutos)
 
@@ -251,7 +247,7 @@ Esto es LO MÁS IMPORTANTE para salir en la cima de Google. Necesitas estar tú 
 ## ✅ TL;DR — tres cosas esta semana
 
 1. Hazme Admin en tu página de Facebook (30 seg)
-2. Escoge hora para la videollamada de Google Business Profile
+2. Reclama tu Google Business Profile con la guía que te mando (10 min)
 3. Mándame fotos y capturas de tus reseñas
 
 ¡Te quiero tía! Cualquier pregunta, dime.
