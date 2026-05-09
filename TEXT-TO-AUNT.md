@@ -4,6 +4,44 @@ Quick mobile-friendly versions of the email. Pick the format that fits your styl
 
 ---
 
+## ⭐ FINAL VERSION (use this one)
+
+### Spanish
+
+```
+Hola tía 💛
+
+Te terminé el sitio web nuevo para Falcon Cleaning — quedó bien bonito 🦅
+
+Acá lo puedes ver desde el celular:
+👉 https://falcon-cleaning-ct.onrender.com
+
+También te mandé un email con todos los detalles — qué se construyó, el plan para conseguirte más clientes, y unas cositas chicas que necesito de ti.
+
+Cuando lo veas, avísame qué te parece! No hay prisa 😊
+
+Si tienes cualquier pregunta, mándame un texto y te ayudo 📱💪
+```
+
+### English
+
+```
+Hey tía 💛
+
+I finished your new Falcon Cleaning website — it looks great 🦅
+
+You can check it out on your phone here:
+👉 https://falcon-cleaning-ct.onrender.com
+
+I also sent you an email with all the details — what was built, the plan to get you more customers, and a few small things I need from you.
+
+When you've had a chance to look, let me know what you think! No rush 😊
+
+If you have any questions, just text me and I'll help 📱💪
+```
+
+---
+
 ## 🥇 Option 1 — Two-step (recommended)
 
 Send the SHORT first text, wait for her to reply, then send the FOLLOW-UP.
